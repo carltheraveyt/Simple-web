@@ -39,3 +39,16 @@ F:\Visual Studio\Test App 5 - Simple Web Browser\obj\Debug\SimpleWebBrowser.pdb
 C:\Users\cande\Source\Repos\Simple-web-browser\bin\Debug\SimpleWebBrowser.exe.config
 C:\Users\cande\Source\Repos\Simple-web-browser\obj\Debug\SimpleWebBrowser.exe
 C:\Users\cande\Source\Repos\Simple-web-browser\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\cande\Source\Repos\Simple-web\bin\Debug\SimpleWebBrowser.exe.config
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.exe
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.pdb
+C:\Users\cande\Source\Repos\Simple-web\bin\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\cande\Source\Repos\Simple-web\bin\Debug\SimpleWebBrowser.application
+C:\Users\cande\Source\Repos\Simple-web\bin\Debug\SimpleWebBrowser.exe
+C:\Users\cande\Source\Repos\Simple-web\bin\Debug\SimpleWebBrowser.pdb
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.Form1.resources
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.exe.manifest
+C:\Users\cande\Source\Repos\Simple-web\obj\Debug\SimpleWebBrowser.application

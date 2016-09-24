@@ -46,6 +46,8 @@
             // 
             // menuStrip1
             // 
+            this.menuStrip1.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
+            this.menuStrip1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
             this.aboutToolStripMenuItem,
@@ -60,12 +62,15 @@
             // 
             this.fileToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.exitToolStripMenuItem});
+            this.fileToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ControlLight;
             this.fileToolStripMenuItem.Name = "fileToolStripMenuItem";
             this.fileToolStripMenuItem.Size = new System.Drawing.Size(37, 20);
             this.fileToolStripMenuItem.Text = "File";
             // 
             // exitToolStripMenuItem
             // 
+            this.exitToolStripMenuItem.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
+            this.exitToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
             this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
             this.exitToolStripMenuItem.Text = "Exit";
@@ -73,6 +78,7 @@
             // 
             // aboutToolStripMenuItem
             // 
+            this.aboutToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
             this.aboutToolStripMenuItem.Name = "aboutToolStripMenuItem";
             this.aboutToolStripMenuItem.Size = new System.Drawing.Size(52, 20);
             this.aboutToolStripMenuItem.Text = "About";
@@ -80,6 +86,7 @@
             // 
             // swapOutStuffToolStripMenuItem
             // 
+            this.swapOutStuffToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.swapOutStuffToolStripMenuItem.Name = "swapOutStuffToolStripMenuItem";
             this.swapOutStuffToolStripMenuItem.Size = new System.Drawing.Size(98, 20);
             this.swapOutStuffToolStripMenuItem.Text = "Swap Out Stuff";
@@ -95,6 +102,7 @@
             this.textBox1.Size = new System.Drawing.Size(659, 22);
             this.textBox1.TabIndex = 1;
             this.textBox1.Text = "http://";
+            this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
             // button1
@@ -120,11 +128,13 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(740, 548);
             this.webBrowser1.TabIndex = 3;
+            this.webBrowser1.Url = new System.Uri("http://carlandersonvlogsandmore.weebly.com", System.UriKind.Absolute);
             this.webBrowser1.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser1_DocumentCompleted);
             this.webBrowser1.ProgressChanged += new System.Windows.Forms.WebBrowserProgressChangedEventHandler(this.webBrowser1_ProgressChanged);
             // 
             // statusStrip1
             // 
+            this.statusStrip1.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
             this.statusStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.toolStripProgressBar1,
             this.toolStripStatusLabel1});
@@ -141,6 +151,7 @@
             // 
             // toolStripStatusLabel1
             // 
+            this.toolStripStatusLabel1.ForeColor = System.Drawing.SystemColors.Control;
             this.toolStripStatusLabel1.Name = "toolStripStatusLabel1";
             this.toolStripStatusLabel1.Size = new System.Drawing.Size(82, 21);
             this.toolStripStatusLabel1.Text = "Current Status";
@@ -149,6 +160,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
             this.ClientSize = new System.Drawing.Size(764, 652);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.webBrowser1);

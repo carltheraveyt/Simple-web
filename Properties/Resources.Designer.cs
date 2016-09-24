@@ -59,5 +59,15 @@ namespace SimpleWebBrowser.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5 {
+            get {
+                object obj = ResourceManager.GetObject("c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
