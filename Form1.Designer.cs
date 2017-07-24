@@ -86,11 +86,8 @@
             // 
             // swapOutStuffToolStripMenuItem
             // 
-            this.swapOutStuffToolStripMenuItem.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
             this.swapOutStuffToolStripMenuItem.Name = "swapOutStuffToolStripMenuItem";
-            this.swapOutStuffToolStripMenuItem.Size = new System.Drawing.Size(98, 20);
-            this.swapOutStuffToolStripMenuItem.Text = "Swap Out Stuff";
-            this.swapOutStuffToolStripMenuItem.Click += new System.EventHandler(this.swapOutStuffToolStripMenuItem_Click);
+            this.swapOutStuffToolStripMenuItem.Size = new System.Drawing.Size(12, 20);
             // 
             // textBox1
             // 
@@ -128,7 +125,7 @@
             this.webBrowser1.Name = "webBrowser1";
             this.webBrowser1.Size = new System.Drawing.Size(740, 548);
             this.webBrowser1.TabIndex = 3;
-            this.webBrowser1.Url = new System.Uri("http://carlandersonvlogsandmore.weebly.com", System.UriKind.Absolute);
+            this.webBrowser1.Url = new System.Uri("http://google.com", System.UriKind.Absolute);
             this.webBrowser1.DocumentCompleted += new System.Windows.Forms.WebBrowserDocumentCompletedEventHandler(this.webBrowser1_DocumentCompleted);
             this.webBrowser1.ProgressChanged += new System.Windows.Forms.WebBrowserProgressChangedEventHandler(this.webBrowser1_ProgressChanged);
             // 

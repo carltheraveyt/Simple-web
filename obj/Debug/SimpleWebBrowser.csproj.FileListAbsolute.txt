@@ -57,7 +57,6 @@ C:\Users\cande\Documents\GitHub\Simple-web\bin\Debug\SimpleWebBrowser.exe.manife
 C:\Users\cande\Documents\GitHub\Simple-web\bin\Debug\SimpleWebBrowser.application
 C:\Users\cande\Documents\GitHub\Simple-web\bin\Debug\SimpleWebBrowser.exe
 C:\Users\cande\Documents\GitHub\Simple-web\bin\Debug\SimpleWebBrowser.pdb
-C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.Form1.resources
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.Properties.Resources.resources
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.csproj.GenerateResource.Cache

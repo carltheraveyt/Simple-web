@@ -38,6 +38,7 @@ namespace SimpleWebBrowser
         private void aboutToolStripMenuItem_Click(object sender, EventArgs e)
         { 
          MessageBox.Show("Made by Carl Anderson");
+            MessageBox.Show("build 240717");
         }
 
         /// <summary>
