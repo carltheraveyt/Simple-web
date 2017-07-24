@@ -42,24 +42,24 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleWebBrowser.exe" size="261120">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="SimpleWebBrowser.exe" size="727040">
       <assemblyIdentity name="SimpleWebBrowser" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>9GpGDiQUUZE24Qxnz8cOH7kMxtl1tPPOOarFNRWmNE8=</dsig:DigestValue>
+        <dsig:DigestValue>U37KQHPK+7rOJYG8Y9DJVW4768RcHEQWtSvWPun7H8Q=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
-  <file name="SimpleWebBrowser.exe.config" size="186">
+  <file name="SimpleWebBrowser.exe.config" size="184">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>1NgAxCSw4ibTXzWVy7D6Rw60Qih4Dn37KvGhG5Ora/s=</dsig:DigestValue>
+      <dsig:DigestValue>FqWy0dfMmRS85zkU1NlW07p6LsNOPUHodvLiZcFdgJY=</dsig:DigestValue>
     </hash>
   </file>
 </asmv1:assembly>

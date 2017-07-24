@@ -4,7 +4,7 @@
   <description asmv2:publisher="SimpleWebBrowser" asmv2:product="SimpleWebBrowser" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <deployment install="true" mapFileExtensions="true" />
   <compatibleFrameworks xmlns="urn:schemas-microsoft-com:clickonce.v2">
-    <framework targetVersion="4.6.1" profile="Full" supportedRuntime="4.0.30319" />
+    <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
     <dependentAssembly dependencyType="install" codebase="SimpleWebBrowser.exe.manifest" size="3507">
@@ -14,7 +14,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>I5GN2fZ1rvpg4+ei0Dz+SOsyOwE4htYTaBy/ya/Rppo=</dsig:DigestValue>
+        <dsig:DigestValue>3uYTZe3ZmYpngOykODOiYXFl20Mbhowtea+/W6WcAO4=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
