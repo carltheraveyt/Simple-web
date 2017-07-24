@@ -116,22 +116,7 @@ namespace SimpleWebBrowser
             }
         }
 
-        /// <summary>
-        /// When the 'Swap Stuff Out' button is pressed on the menu bar this will swap out all of the images on the website with a funny cat picture
-        /// </summary>
-        /// <param name="sender"></param>
-        /// <param name="e"></param>
-        private void swapOutStuffToolStripMenuItem_Click(object sender, EventArgs e)
-        {
-            foreach (HtmlElement image in webBrowser1.Document.Images)
-            {
-                // Replace all the <img src=""> values with our funny cat picture
-                if (image.GetAttribute("src") != "http://evelyngarone.files.wordpress.com/2012/01/little-cat.jpg")
-                {
-                    image.SetAttribute("src", "http://evelyngarone.files.wordpress.com/2012/01/little-cat.jpg");
-                }
-            }
-        }
+        
 
         private void Form1_Load(object sender, EventArgs e)
         {
