@@ -1,0 +1,5 @@
+.LOG
+
+tested the app outside of the repo and worked first time after uninstalling the previous version
+
+13:39 24/07/2017
