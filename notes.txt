@@ -3,3 +3,6 @@
 tested the app outside of the repo and worked first time after uninstalling the previous version
 
 13:39 24/07/2017
+
+13:59 24/07/2017
+need to change the icon that is seen in the start menu and taskbar, the favicon on the window itself is fine.
