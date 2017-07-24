@@ -57,7 +57,7 @@ namespace SimpleWebBrowser
         /// </summary>
         private void NavigateToPage()
         {
-            toolStripStatusLabel1.Text = "Navigation has started";
+            toolStripStatusLabel1.Text = "Please Wait";
             webBrowser1.Navigate(textBox1.Text);
         }
 
@@ -88,7 +88,7 @@ namespace SimpleWebBrowser
             textBox1.Enabled = true;
 
             // Indicate loading is complete
-            toolStripStatusLabel1.Text = "Navigation Complete";
+            toolStripStatusLabel1.Text = "Thank you for waiting paitently.";
             toolStripProgressBar1.ProgressBar.Value = 100;
         }
 
