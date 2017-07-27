@@ -121,4 +121,7 @@
   <data name="c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Resources\c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5.jpg;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
   </data>
+  <data name="sundance studio - sundance.com" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Resources\sundance studio - sundance.com.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>

@@ -46,7 +46,7 @@
             // 
             // menuStrip1
             // 
-            this.menuStrip1.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
+            this.menuStrip1.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.sundance_studio___sundance_com;
             this.menuStrip1.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Stretch;
             this.menuStrip1.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.fileToolStripMenuItem,
@@ -159,7 +159,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
+            this.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.sundance_studio___sundance_com;
             this.ClientSize = new System.Drawing.Size(764, 652);
             this.Controls.Add(this.statusStrip1);
             this.Controls.Add(this.webBrowser1);

@@ -69,5 +69,15 @@ namespace SimpleWebBrowser.Properties {
                 return ((System.Drawing.Bitmap)(obj));
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap sundance_studio___sundance_com {
+            get {
+                object obj = ResourceManager.GetObject("sundance studio - sundance.com", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }

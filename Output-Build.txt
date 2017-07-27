@@ -1,0 +1,3 @@
+﻿1>------ Rebuild All started: Project: SimpleWebBrowser, Configuration: Debug Any CPU ------
+1>  SimpleWebBrowser -> C:\Users\cande\Documents\GitHub\Simple-web\bin\Debug\SimpleWebBrowser.exe
+========== Rebuild All: 1 succeeded, 0 failed, 0 skipped ==========
