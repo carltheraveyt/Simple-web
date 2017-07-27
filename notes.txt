@@ -6,3 +6,5 @@ tested the app outside of the repo and worked first time after uninstalling the 
 
 13:59 24/07/2017
 need to change the icon that is seen in the start menu and taskbar, the favicon on the window itself is fine.
+12:05 27/07/2017
+Testing supressing Jscript errors 
