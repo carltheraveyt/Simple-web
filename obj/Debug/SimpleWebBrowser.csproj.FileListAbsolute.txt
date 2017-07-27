@@ -64,4 +64,3 @@ C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.exe.manife
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.application
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.exe
 C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.pdb
-C:\Users\cande\Documents\GitHub\Simple-web\obj\Debug\SimpleWebBrowser.csprojResolveAssemblyReference.cache

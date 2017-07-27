@@ -96,9 +96,10 @@
             this.textBox1.Location = new System.Drawing.Point(12, 33);
             this.textBox1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.textBox1.Name = "textBox1";
+            this.textBox1.ScrollBars = System.Windows.Forms.ScrollBars.Horizontal;
             this.textBox1.Size = new System.Drawing.Size(659, 22);
             this.textBox1.TabIndex = 1;
-            this.textBox1.Text = "http://";
+            this.textBox1.Text = "https://";
             this.textBox1.TextChanged += new System.EventHandler(this.textBox1_TextChanged);
             this.textBox1.KeyPress += new System.Windows.Forms.KeyPressEventHandler(this.textBox1_KeyPress);
             // 
