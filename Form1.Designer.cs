@@ -72,7 +72,7 @@
             this.exitToolStripMenuItem.BackgroundImage = global::SimpleWebBrowser.Properties.Resources.c7783f801f93cf2281d2aa56d360cabafc1034d176702695bf17a37a6ad52cb5;
             this.exitToolStripMenuItem.ForeColor = System.Drawing.SystemColors.Control;
             this.exitToolStripMenuItem.Name = "exitToolStripMenuItem";
-            this.exitToolStripMenuItem.Size = new System.Drawing.Size(152, 22);
+            this.exitToolStripMenuItem.Size = new System.Drawing.Size(92, 22);
             this.exitToolStripMenuItem.Text = "Exit";
             this.exitToolStripMenuItem.Click += new System.EventHandler(this.exitToolStripMenuItem_Click);
             // 
@@ -123,6 +123,7 @@
             this.webBrowser1.Margin = new System.Windows.Forms.Padding(3, 4, 3, 4);
             this.webBrowser1.MinimumSize = new System.Drawing.Size(20, 25);
             this.webBrowser1.Name = "webBrowser1";
+            this.webBrowser1.ScriptErrorsSuppressed = true;
             this.webBrowser1.Size = new System.Drawing.Size(740, 548);
             this.webBrowser1.TabIndex = 3;
             this.webBrowser1.Url = new System.Uri("http://google.com", System.UriKind.Absolute);
