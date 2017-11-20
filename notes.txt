@@ -8,3 +8,5 @@ tested the app outside of the repo and worked first time after uninstalling the 
 need to change the icon that is seen in the start menu and taskbar, the favicon on the window itself is fine.
 12:05 27/07/2017
 Testing supressing Jscript errors 
+20/11/2017
+Reviewing the design of the Build to see if it can be built in a UWP Build. - 
