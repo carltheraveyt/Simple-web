@@ -10,3 +10,4 @@ the following needs to be added
 4. add support for Java scripts without coming up with script error
 5. Allow the user to change the background through a setting without damaging the code
 6. allow single sign in apps to run in the browsers such as windows hello, intel true key, norton identity safe , lasspass
+7. change the layout to allow adaptive displays to automatically resize the application.
