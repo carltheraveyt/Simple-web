@@ -19,6 +19,9 @@ namespace SimpleWebBrowser
         {
             InitializeComponent();
         }
+Process.Suspend();
+Threads.sleep(sleep);
+Process.Resume();
 
         /// <summary>
         /// This will close the application when the File->Exit menu item is selected
