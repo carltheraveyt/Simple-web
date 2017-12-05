@@ -39,7 +39,6 @@ namespace SimpleWebBrowser
         { 
          MessageBox.Show("Made by Carl Anderson");
             MessageBox.Show("build 240717");
-            MessageBox.Show("Code to this is in github https://github.com/carltheraveyt/Simple-web");
         }
 
         /// <summary>
@@ -57,7 +56,7 @@ namespace SimpleWebBrowser
         /// </summary>
         private void NavigateToPage()
         {
-            toolStripStatusLabel1.Text = "i am Groot";
+            toolStripStatusLabel1.Text = "i a";
             webBrowser1.Navigate(textBox1.Text);
         }
 
