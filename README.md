@@ -12,3 +12,4 @@ the following needs to be added
 6. allow single sign in apps to run in the browsers such as windows hello, intel true key, norton identity safe , lasspass
 7. change the layout to allow adaptive displays to automatically resize the application.
 8. Update it to a newer version. 
+9. Export to .exe format
